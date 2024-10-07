@@ -3,8 +3,8 @@ This project demonstrates the implementation of Simple Linear Regression using G
 
 Key Highlights:
 
-#Performed data preprocessing and standardization using StandardScaler from sklearn.
+* Performed data preprocessing and standardization using StandardScaler from sklearn.
 
-#Implemented gradient descent to optimize the linear regression model.
+* Implemented gradient descent to optimize the linear regression model.
 
-#Evaluated the model’s performance and visualized the results.
+* Evaluated the model’s performance and visualized the results.
